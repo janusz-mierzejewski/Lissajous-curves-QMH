@@ -67,6 +67,8 @@
 		<Item Name="make 1D array X dx.vi" Type="VI" URL="../make 1D array X dx.vi"/>
 		<Item Name="make_figure.vi" Type="VI" URL="../make_figure.vi"/>
 		<Item Name="timer check for animation.vi" Type="VI" URL="../timer check for animation.vi"/>
+		<Item Name="What animation enum.ctl" Type="VI" URL="../controls/What animation enum.ctl"/>
+		<Item Name="wrap phase.vi" Type="VI" URL="../wrap phase.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
