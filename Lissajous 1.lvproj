@@ -24,30 +24,31 @@
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Documentation Images" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">0</Property>
-				<Item Name="loc_access_task_data.png" Type="Document" URL="../documentation/loc_access_task_data.png"/>
-				<Item Name="loc_bundle_new_button_ref.png" Type="Document" URL="../documentation/loc_bundle_new_button_ref.png"/>
-				<Item Name="loc_convert_variant.png" Type="Document" URL="../documentation/loc_convert_variant.png"/>
-				<Item Name="loc_create_two_queues.png" Type="Document" URL="../documentation/loc_create_two_queues.png"/>
-				<Item Name="loc_disable_new_button.png" Type="Document" URL="../documentation/loc_disable_new_button.png"/>
-				<Item Name="loc_enqueue_generic_message.png" Type="Document" URL="../documentation/loc_enqueue_generic_message.png"/>
-				<Item Name="loc_enqueue_message_with_data.png" Type="Document" URL="../documentation/loc_enqueue_message_with_data.png"/>
-				<Item Name="loc_enqueue_priority_message.png" Type="Document" URL="../documentation/loc_enqueue_priority_message.png"/>
-				<Item Name="loc_exit_message.png" Type="Document" URL="../documentation/loc_exit_message.png"/>
-				<Item Name="loc_message_queue_wire.png" Type="Document" URL="../documentation/loc_message_queue_wire.png"/>
-				<Item Name="loc_new_message_diagram.png" Type="Document" URL="../documentation/loc_new_message_diagram.png"/>
-				<Item Name="loc_new_task_loop.png" Type="Document" URL="../documentation/loc_new_task_loop.png"/>
-				<Item Name="loc_new_task_typedef.png" Type="Document" URL="../documentation/loc_new_task_typedef.png"/>
-				<Item Name="loc_open_msg_queue_typedef.png" Type="Document" URL="../documentation/loc_open_msg_queue_typedef.png"/>
-				<Item Name="loc_qmh_ignore_errors.png" Type="Document" URL="../documentation/loc_qmh_ignore_errors.png"/>
-				<Item Name="loc_queued_message_handler.gif" Type="Document" URL="../documentation/loc_queued_message_handler.gif"/>
-				<Item Name="loc_stop_new_mhl.png" Type="Document" URL="../documentation/loc_stop_new_mhl.png"/>
-				<Item Name="loc_stop_task.png" Type="Document" URL="../documentation/loc_stop_task.png"/>
-				<Item Name="loc_ui_data.png" Type="Document" URL="../documentation/loc_ui_data.png"/>
-				<Item Name="loc_value_change_event.png" Type="Document" URL="../documentation/loc_value_change_event.png"/>
-				<Item Name="noloc_note.png" Type="Document" URL="../documentation/noloc_note.png"/>
-				<Item Name="noloc_tip.png" Type="Document" URL="../documentation/noloc_tip.png"/>
+				<Item Name="loc_access_task_data.png" Type="Document" URL="../template documentation/documentation/loc_access_task_data.png"/>
+				<Item Name="loc_bundle_new_button_ref.png" Type="Document" URL="../template documentation/documentation/loc_bundle_new_button_ref.png"/>
+				<Item Name="loc_convert_variant.png" Type="Document" URL="../template documentation/documentation/loc_convert_variant.png"/>
+				<Item Name="loc_create_two_queues.png" Type="Document" URL="../template documentation/documentation/loc_create_two_queues.png"/>
+				<Item Name="loc_disable_new_button.png" Type="Document" URL="../template documentation/documentation/loc_disable_new_button.png"/>
+				<Item Name="loc_enqueue_generic_message.png" Type="Document" URL="../template documentation/documentation/loc_enqueue_generic_message.png"/>
+				<Item Name="loc_enqueue_message_with_data.png" Type="Document" URL="../template documentation/documentation/loc_enqueue_message_with_data.png"/>
+				<Item Name="loc_enqueue_priority_message.png" Type="Document" URL="../template documentation/documentation/loc_enqueue_priority_message.png"/>
+				<Item Name="loc_exit_message.png" Type="Document" URL="../template documentation/documentation/loc_exit_message.png"/>
+				<Item Name="loc_message_queue_wire.png" Type="Document" URL="../template documentation/documentation/loc_message_queue_wire.png"/>
+				<Item Name="loc_new_message_diagram.png" Type="Document" URL="../template documentation/documentation/loc_new_message_diagram.png"/>
+				<Item Name="loc_new_task_loop.png" Type="Document" URL="../template documentation/documentation/loc_new_task_loop.png"/>
+				<Item Name="loc_new_task_typedef.png" Type="Document" URL="../template documentation/documentation/loc_new_task_typedef.png"/>
+				<Item Name="loc_open_msg_queue_typedef.png" Type="Document" URL="../template documentation/documentation/loc_open_msg_queue_typedef.png"/>
+				<Item Name="loc_qmh_ignore_errors.png" Type="Document" URL="../template documentation/documentation/loc_qmh_ignore_errors.png"/>
+				<Item Name="loc_queued_message_handler.gif" Type="Document" URL="../template documentation/documentation/loc_queued_message_handler.gif"/>
+				<Item Name="loc_stop_new_mhl.png" Type="Document" URL="../template documentation/documentation/loc_stop_new_mhl.png"/>
+				<Item Name="loc_stop_task.png" Type="Document" URL="../template documentation/documentation/loc_stop_task.png"/>
+				<Item Name="loc_ui_data.png" Type="Document" URL="../template documentation/documentation/loc_ui_data.png"/>
+				<Item Name="loc_value_change_event.png" Type="Document" URL="../template documentation/documentation/loc_value_change_event.png"/>
+				<Item Name="noloc_note.png" Type="Document" URL="../template documentation/documentation/noloc_note.png"/>
+				<Item Name="noloc_tip.png" Type="Document" URL="../template documentation/documentation/noloc_tip.png"/>
 			</Item>
-			<Item Name="Queued Message Handler Documentation.html" Type="Document" URL="../documentation/Queued Message Handler Documentation.html"/>
+			<Item Name="Queued Message Handler Documentation.html" Type="Document" URL="../template documentation/documentation/Queued Message Handler Documentation.html"/>
+			<Item Name="states.odt" Type="Document" URL="../documentation/states.odt"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
