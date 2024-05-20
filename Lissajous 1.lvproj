@@ -59,6 +59,7 @@
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/Error Handler - Message Handling Loop.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="animation logic enum 1.ctl" Type="VI" URL="../controls/animation logic enum 1.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="GCD_Euclidean_1.vi" Type="VI" URL="../GCD_Euclidean_1.vi"/>
