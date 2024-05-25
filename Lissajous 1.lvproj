@@ -62,16 +62,20 @@
 			<Item Name="animation logic enum 1.ctl" Type="VI" URL="../controls/animation logic enum 1.ctl"/>
 			<Item Name="phase knob.ctl" Type="VI" URL="../controls/phase knob.ctl"/>
 			<Item Name="streak settings.ctl" Type="VI" URL="../controls/streak settings.ctl"/>
+			<Item Name="timer control.ctl" Type="VI" URL="../controls/timer control.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="UI refnums.ctl" Type="VI" URL="../controls/UI refnums.ctl"/>
 			<Item Name="What animation enum.ctl" Type="VI" URL="../controls/What animation enum.ctl"/>
 		</Item>
+		<Item Name="coerce and update control.vi" Type="VI" URL="../coerce and update control.vi"/>
 		<Item Name="GCD_Euclidean_1.vi" Type="VI" URL="../GCD_Euclidean_1.vi"/>
 		<Item Name="Initialization SubVI.vi" Type="VI" URL="../Initialization SubVI.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="make 1D array X dx.vi" Type="VI" URL="../make 1D array X dx.vi"/>
 		<Item Name="make_figure.vi" Type="VI" URL="../make_figure.vi"/>
+		<Item Name="prepare a b T.vi" Type="VI" URL="../prepare a b T.vi"/>
 		<Item Name="streak calculations.vi" Type="VI" URL="../streak calculations.vi"/>
+		<Item Name="test coerce and update 1.vi" Type="VI" URL="../test coerce and update 1.vi"/>
 		<Item Name="timer check for animation.vi" Type="VI" URL="../timer check for animation.vi"/>
 		<Item Name="wrap phase.vi" Type="VI" URL="../wrap phase.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
