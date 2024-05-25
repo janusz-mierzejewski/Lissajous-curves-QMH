@@ -4,8 +4,8 @@ Continuously listens for user imput and given parameters a, b and phase calculat
 
 Animation options:
 - None - calculates a curve and displays it
-- Phase - calculates a curve, displays it, modifies phase value, recalculates, displays, etc. 
+- Phase - calculates a curve, displays it, modifies phase value, recalculates, displays, etc. - the curve appears to be rolling
+- Streak - calculates a curve then selects and displays its fragments giving the appearence of a streak traveling along the curve. (If you select length = 0 then its a point).
 
 To do:
-- animation: line/point tracing the curve
-- animation: refine controls
+- new animation: combine phase and streak ?
