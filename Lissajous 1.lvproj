@@ -74,6 +74,8 @@
 		<Item Name="make 1D array X dx.vi" Type="VI" URL="../make 1D array X dx.vi"/>
 		<Item Name="make_figure.vi" Type="VI" URL="../make_figure.vi"/>
 		<Item Name="prepare a b T.vi" Type="VI" URL="../prepare a b T.vi"/>
+		<Item Name="set plot style.vi" Type="VI" URL="../set plot style.vi"/>
+		<Item Name="streak calculate lengths.vi" Type="VI" URL="../streak calculate lengths.vi"/>
 		<Item Name="streak calculations.vi" Type="VI" URL="../streak calculations.vi"/>
 		<Item Name="test coerce and update 1.vi" Type="VI" URL="../test coerce and update 1.vi"/>
 		<Item Name="timer check for animation.vi" Type="VI" URL="../timer check for animation.vi"/>
